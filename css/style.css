@@ -412,6 +412,7 @@
         .card {
             display: grid;
             grid-template-columns: repeat(3, 1fr);
+            justify-content: center;
             gap: 30px;
             margin-top: 40px;
         }
@@ -469,6 +470,7 @@
             width: 1400px;
             background: rgba(53, 17, 101, 0.4);
             border-radius: 50px;
+            justify-content: center;
             margin-top: 40px;
         }
 
@@ -556,7 +558,7 @@
 
             text-align: center;
             /* margin-left: 120px; */
-            margin-right: 120px;
+            margin-right: 140px;
         }
 
 
