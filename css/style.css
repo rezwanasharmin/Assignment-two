@@ -555,10 +555,9 @@
         .footer-para {
             margin-top: 32px;
             color: white;
-
             text-align: center;
-            /* margin-left: 120px; */
-            /* margin-right: 100px; */
+            margin-left: 120px;
+            
         }
 
 
